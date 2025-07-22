@@ -4,9 +4,8 @@
 
 ## 1. Objetivos
 1. Clonar el portal de demostración `http://demo.testfire.net/login.jsp` que simula la banca en línea de Altoro Mutual.  
-2. Ajustar el formulario para que envíe las credenciales al servidor local.  
-3. Capturar credenciales de prueba y almacenarlas en `creds.json`.  
-4. Generar un informe en `informe_final.json` y proponer controles defensivos.
+2. Capturar credenciales de prueba y almacenarlas en `creds.json`.  
+3. Generar un informe en `informe_final.json` y proponer controles defensivos.
 
 ---
 
