@@ -25,6 +25,7 @@
 ```bash
 sudo apt update && sudo apt -y full-upgrade
 sudo apt -y install apache2 jq
+sudo apt install setoolkit
 sudo systemctl enable --now apache2
 mkdir -p ~/week11_phish && cd ~/week11_phish
 ```
