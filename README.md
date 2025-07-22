@@ -73,7 +73,7 @@ jq -s '.' > creds.json
 ---
 
 ## 8. Informe final
-Create `informe_final.json`:
+Crear el `informe_final.json`:
 ```json
 {
   "victims": 3,
